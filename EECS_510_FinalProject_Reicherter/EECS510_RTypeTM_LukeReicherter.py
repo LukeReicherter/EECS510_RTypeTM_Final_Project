@@ -5,8 +5,8 @@ Class: EECS 510
 Final Project: R-Type Turing Machine
 """
 
-import networkx as nx 
-import matplotlib.pyplot as plt
+#import networkx as nx 
+#import matplotlib.pyplot as plt
 
 class RTypeTM:
     def __init__(self, tape, initial_state='op0', blank='_'):
